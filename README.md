@@ -17,7 +17,7 @@ A simple and stylish login page with a responsive design, featuring a login form
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/your-username/login-page.git
+    git clone https://github.com/shivoham8/Responsive-Login-Page.git
     ```
 3. Open `index.html` in your preferred web browser.
 4. Explore the responsive design and form toggling functionality.
