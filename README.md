@@ -15,9 +15,12 @@ A simple and stylish login page with a responsive design, featuring a login form
 
 ## How to Use
 
-1. Clone the repository.
-2. Open `index.html` in your preferred web browser.
-3. Explore the responsive design and form toggling functionality.
+1. Clone the repository:
+   ```bash
+    git clone https://github.com/your-username/login-page.git
+    ```
+3. Open `index.html` in your preferred web browser.
+4. Explore the responsive design and form toggling functionality.
 
 Feel free to customize and use this login page as a foundation for your authentication system. Enhance it further with backend validation, user feedback, and additional security measures.
 
